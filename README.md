@@ -4,10 +4,11 @@ Public service pages for tedypark apps.
 
 ## URL policy
 
-- Marketing page: `https://tedypark.com/<service>/`
-- Shared support page: `https://tedypark.com/support/`
-- Shared privacy policy: `https://tedypark.com/legal/privacy/`
-- Shared terms of service: `https://tedypark.com/legal/terms/`
+- Marketing page: `https://tedygarden.github.io/tedypark-pages/<service>/`
+- Shared docs page: `https://tedygarden.github.io/tedypark-docs/`
+- Shared support page: `https://tedygarden.github.io/tedypark-docs/support/`
+- Shared privacy policy: `https://tedygarden.github.io/tedypark-docs/legal/privacy/`
+- Shared terms of service: `https://tedygarden.github.io/tedypark-docs/legal/terms/`
 
 Current services:
 
@@ -27,6 +28,6 @@ Recommended custom domain routing:
 
 Use one shared legal policy across apps:
 
-- Marketing URL: `https://tedypark.com/<service>/`
-- Support URL: `https://tedypark.com/support/`
-- Privacy URL: `https://tedypark.com/legal/privacy/`
+- Marketing URL: `https://tedygarden.github.io/tedypark-pages/<service>/`
+- Support URL: `https://tedygarden.github.io/tedypark-docs/support/`
+- Privacy URL: `https://tedygarden.github.io/tedypark-docs/legal/privacy/`
