@@ -4,9 +4,10 @@ Public service pages for tedypark apps.
 
 ## URL policy
 
-- `https://tedypark.com/<service>/`
-- `https://tedypark.com/<service>/support/`
-- `https://tedypark.com/<service>/privacy/`
+- Marketing page: `https://tedypark.com/<service>/`
+- Shared support page: `https://tedypark.com/support/`
+- Shared privacy policy: `https://tedypark.com/legal/privacy/`
+- Shared terms of service: `https://tedypark.com/legal/terms/`
 
 Current services:
 
@@ -24,8 +25,8 @@ Recommended custom domain routing:
 
 ## App Store usage
 
-Use the same path convention for all app metadata:
+Use one shared legal policy across apps:
 
 - Marketing URL: `https://tedypark.com/<service>/`
-- Support URL: `https://tedypark.com/<service>/support/`
-- Privacy URL: `https://tedypark.com/<service>/privacy/`
+- Support URL: `https://tedypark.com/support/`
+- Privacy URL: `https://tedypark.com/legal/privacy/`
